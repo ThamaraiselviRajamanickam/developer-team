@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+nav {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+.menu h1,
+.menu li,
+.menu ul {
+  display: inline;
+}
+.menu ul {
+  margin-left: 30%;
+}
+.menu ul,
+.menu li {
+  padding-left: 50px;
+}
+nav h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  padding-left: 100px;
+  text-align: center;
+}
+.home h2 {
+  color: white;
+  background: linear-gradient(45deg, black, red, black);
+  width: 500px;
+  border-radius: 50%;
+  text-align: center;
+  padding: 5px;
+  margin: auto;
+  margin-top: 56px;
+}
+.pizza p {
+  margin-top: 6px;
+  margin: 30px;
+}
+
+.image1 h4 {
+  margin: 0;
+  text-align: center;
+}
+.image1 {
+  padding-left: 117px;
+}
+
+.image1 div {
+  display: inline-block;
+  height: 100;
+  width: 100;
+  padding-right: 90px;
+}
+.img2 div {
+  text-align: right;
+}
+.phar {
+  margin: 20px;
+  margin-top: -50px;
+}
+div {
+  display: inline;
+}
+.footer {
+  padding-top: 30px;
+  width: 100%;
+  text-align: center;
+  color: white;
+  background-color: black;
+  padding-bottom: 20px;
+
+}
+.table2 {
+  margin-top: -200px;
+}
+.main {
+  padding: 50px;
+  margin: 50;
+  display: block !important;
+}
+#card {
+  padding: 15px;
+  width: 270px;
+  height: 400px;
+  text-align: center;
+  border-radius: 20px;
+  margin: 50px auto;
+  box-shadow: 0 0 10px black;
+  display: block !important;
+}
